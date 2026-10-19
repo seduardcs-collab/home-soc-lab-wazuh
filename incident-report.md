@@ -48,7 +48,17 @@ All systems were isolated on a VirtualBox host-only network (no access to or fro
 - **MITRE ATT&CK mapping:** Wazuh tagged the activity under Password Guessing, Brute Force, and Valid Accounts, consistent with the attack technique used.
 
 
-*(Insert screenshots here: Nmap output, Hydra success line, Wazuh dashboard overview, filtered high-severity alert list, expanded Rule 40112 alert.)*
+![Nmap scan showing port 22 open](./nmap-scan.png)
+
+![Hydra reporting a valid password found](./hydra-success.png)
+
+![Wazuh dashboard overview](./wazuh-dashboard.png)
+
+![Wazuh alerts](./wazuh-alerts.png)
+
+![Wazuh alerts filtered to level 10+](./wazuh-alerts-filtered.png)
+
+![Expanded Rule 40112 alert detail](./wazuh-alert-expanded.png)
 
 ---
 
