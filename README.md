@@ -43,7 +43,7 @@ All three machines ran in VirtualBox on an isolated host-only network, with no a
 
 ## Key finding
 
-Wazuh correctly escalated 567 individual authentication failures into a single high-severity correlated alert (Rule ID 40112, level 12) once a successful login followed the failed attempts, rather than leaving an analyst to manually spot the pattern across hundreds of low-level log lines. Full detail in the incident report.
+Wazuh correctly escalated 569 individual authentication failures into a single high-severity correlated alert (Rule ID 40112, level 12) once a successful login followed the failed attempts, rather than leaving an analyst to manually spot the pattern across hundreds of low-level log lines. Full detail in the incident report.
 
 ---
 
