@@ -1,6 +1,6 @@
 # Incident Report: SSH Brute-Force Attack Detection
 
-**Lab:** Home SOC Lab (Wazuh, VirtualBox) **Analyst:** Eduard Pricop **Date of exercise:** 17–18 October 2026
+**Lab:** Home SOC Lab (Wazuh, VirtualBox) **Analyst:** Eduard Pricop **Date of exercise:** 17–19 October 2026
 
 ---
 
